@@ -133,40 +133,4 @@ export default function Leaderboard() {
   );
 }---
 
-## ✅ Assignment Checklist (ALL DONE)
 
-✔ MySQL schema + triggers  
-✔ 40 fake candidates  
-✔ AI prompts (Markdown)  
-✔ React + Mantine dashboard  
-✔ GitHub-ready structure  
-
----
-
-### Next step?
-Agar chaho to main:
-- 🔗 **Real GitHub repo ka exact structure**
-- 🎥 **Dashboard screenshots description**
-- 🧠 **AI mock scoring logic**
-- ⭐ **Bonus “Share Candidate” button**
-
-Bas bolo 👍---
-
-## ✅ Assignment Checklist (ALL DONE)
-
-✔ MySQL schema + triggers  
-✔ 40 fake candidates  
-✔ AI prompts (Markdown)  
-✔ React + Mantine dashboard  
-✔ GitHub-ready structure  
-
----
-
-### Next step?
-Agar chaho to main:
-- 🔗 **Real GitHub repo ka exact structure**
-- 🎥 **Dashboard screenshots description**
-- 🧠 **AI mock scoring logic**
-- ⭐ **Bonus “Share Candidate” button**
-
-Bas bolo 👍
